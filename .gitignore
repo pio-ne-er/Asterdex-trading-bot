@@ -1,0 +1,6 @@
+.env
+.env*
+test.ts
+watch.ts
+liveAster.ts
+node_modules
